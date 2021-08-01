@@ -99,3 +99,14 @@ main {
   font-size: 25px;
   color: #550c0c;
 }
+.date {
+    color: #888;
+    font-size: 14px;
+    margin-bottom: 15px;
+    text-align: right;
+}
+#color-choice{
+    margin-bottom: 20px;
+    width: 70px;
+    height: 20px;
+}
